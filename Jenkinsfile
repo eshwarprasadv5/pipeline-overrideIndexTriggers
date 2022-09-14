@@ -6,7 +6,7 @@ pipeline{
     stages{
         stage('Build'){
             steps{
-               echo "build done 1"
+               echo "build done 2"
             }
         }
     }
